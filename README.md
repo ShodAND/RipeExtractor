@@ -1,2 +1,2 @@
 # RipeExtractor
-Extract IP's from RIPE Database by AS
+Extract IP's by AS from RIPE Database
