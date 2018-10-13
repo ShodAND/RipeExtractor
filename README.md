@@ -6,5 +6,7 @@ docker build . -t shodand/ripeextrator:latest
 
 ## Run docker image
 docker run -it --rm shodand/ripeextrator
-execute extractor.py
+
+Execute extractor.py
+
 Results in data directory
